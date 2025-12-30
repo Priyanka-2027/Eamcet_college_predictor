@@ -265,11 +265,13 @@ The CSV file should contain the following columns:
 SNO,INSTCODE,COLLEGE_NAME,TYPE,REGION,DIST,PLACE,COED,AFFL,ESTD,branch_code,OC_BOYS,OC_GIRLS,SC_BOYS,SC_GIRLS,ST_BOYS,ST_GIRLS,BCA_BOYS,BCA_GIRLS,BCB_BOYS,BCB_GIRLS,BCC_BOYS,BCC_GIRLS,BCD_BOYS,BCD_GIRLS,BCE_BOYS,BCE_GIRLS,OC_EWS_BOYS,OC_EWS_GIRLS,COLLEGE_FEE
 ```
 ## Output Screenshots
-<img width="1904" height="1062" alt="image" src="https://github.com/user-attachments/assets/7f02fbdd-5620-41b0-b280-96d0fcdbdec3" />
-<img width="1832" height="968" alt="image" src="https://github.com/user-attachments/assets/bc5fa634-8e2b-4bbb-9148-858e928edc51" />
-<img width="1822" height="1060" alt="image" src="https://github.com/user-attachments/assets/b62aaf60-f7a4-46f1-bb7a-e945836398b6" />
-<img width="1624" height="937" alt="image" src="https://github.com/user-attachments/assets/b38ccc79-16c0-4199-b687-f873a5fa6fe5" />
-<img width="1780" height="1019" alt="image" src="https://github.com/user-attachments/assets/4a5e089d-1eca-4c34-b555-9a26e450b7c8" />
+<img width="1904" height="1062" alt="Screenshot 2025-12-29 222209" src="https://github.com/user-attachments/assets/b6d1ef92-8f97-4608-bcf5-f09546ed5157" />
+<img width="1832" height="968" alt="Screenshot 2025-12-29 222249" src="https://github.com/user-attachments/assets/940b9f8c-0251-4b53-b151-3a364503f653" />
+<img width="1822" height="1060" alt="Screenshot 2025-12-29 222321" src="https://github.com/user-attachments/assets/55beefb8-2fb0-4b6e-88a6-9a3e863d734d" />
+<img width="1624" height="937" alt="Screenshot 2025-12-29 222332" src="https://github.com/user-attachments/assets/83bcd184-d5ed-4ff4-823e-3967f54c8039" />
+
+
+
 
 
 ## 🤝 Contributing
