@@ -9,8 +9,8 @@ A comprehensive web application that helps students predict their college admiss
 - **⚖️ College Comparison**: Compare up to 5 colleges side by side
 - **📱 Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 - **🔐 Secure Authentication**: JWT-based user authentication and authorization
-- **🌓 Dark/Light Mode**: Toggle between themes for comfortable viewing
-- **❤️ Favorites System**: Save and manage your preferred colleges
+- **🌓 Dark/Light Mode**: Toggle between themes for comfortable viewing.
+- **❤️ Favorites System**: Save and manage your preferred colleges.
 
   
 ## 🛠️ Tech Stack
