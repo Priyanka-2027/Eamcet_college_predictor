@@ -32,8 +32,8 @@ A comprehensive web application that helps students predict their college admiss
 
 1. **Clone and setup**:
    ```bash
-   cd backend
-   npm install
+   cd backend.
+   npm install.
    ```
 
 2. **Environment Configuration**:
