@@ -3,10 +3,10 @@
 A comprehensive web application that helps students predict their college admissions based on their EAMCET rank, category, and gender.
 
 ## 🚀 Features
-- **🎯 Smart Predictions**: Accurate college predictions based on historical cutoff data
+- **🎯 Smart Predictions**: Accurate college predictions based on historical cutoff data.
 - **📊 Interactive Dashboard**: Visual representation of college data and trends
 - **🔍 Advanced Search**: Filter colleges by name, location, branch, and more.
-- **⚖️ College Comparison**: Compare up to 5 colleges side by side
+- **⚖️ College Comparison**: Compare up to 5 colleges side by side.
 - **📱 Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices.
 - **🔐 Secure Authentication**: JWT-based user authentication and authorization.
 - **🌓 Dark/Light Mode**: Toggle between themes for comfortable viewing.
