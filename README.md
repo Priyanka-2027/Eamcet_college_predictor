@@ -43,7 +43,7 @@ A comprehensive web application that helps students predict their college admiss
    
    Update `.env` with your configuration:
    ```env
-   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/eamcet_predictor
+   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/eamcet_predictor.
    JWT_SECRET=your_super_secret_jwt_key_here
    PORT=5000
    NODE_ENV=development
