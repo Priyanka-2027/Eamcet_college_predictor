@@ -10,7 +10,7 @@ A comprehensive web application that helps students predict their college admiss
 - **📱 Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices.
 - **🔐 Secure Authentication**: JWT-based user authentication and authorization.
 - **🌓 Dark/Light Mode**: Toggle between themes for comfortable viewing.
-- **❤️ Favorites System**: Save and manage your preferred colleges.
+- **❤️ Favorites System**: Save and manage your preferred colleges
 
   
 ## 🛠️ Tech Stack
